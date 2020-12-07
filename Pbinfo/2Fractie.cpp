@@ -35,6 +35,5 @@ int main(){
     }
 
     cout<<(a1+a2)/cmmdc(a1+a2, b1)<<" "<<b1/cmmdc(a1+a2, b1)<<"\n"<<p1/cmmdc(p1, p2)<<" "<<p2/cmmdc(p1, p2);
-
     return 0;
 }
